@@ -46,7 +46,7 @@
 ## C. Top Performers
 ### - Which track has the highest number of streams? Display the top 5 most streamed tracks.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using functions from the pandas library and the head function the top 5 tracks were found based on number of streams. The most streamed was Blinding Lights and the top 5 are shown below:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/c9d44732-3eb0-4e16-8dec-2d2da75f070e)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/c9d44732-3eb0-4e16-8dec-2d2da75f070e)\
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d2a0627d-4a8b-48f5-a5d4-a144e2bf2ccf)
