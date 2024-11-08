@@ -67,22 +67,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;same as earlier in the graph for the released year there are noticeably less tracks from the year 2000 and below and from\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;years 2000 to 2023 there is an almost steady increases in tracks and a great increase in the years between 2010 and 2023.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The graph is shown below:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/b6240891-262a-4cd3-bf78-900d6e1a30e0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/b6240891-262a-4cd3-bf78-900d6e1a30e0)\
 &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As for number of tracks released per month, the month with the most releases is January and there is no noticeable trend except that\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some pair of months have almost the same number of releases.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d5d43e76-9911-413f-82e8-761d001d38f5)\
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the outputs above is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the graph above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d2a0627d-4a8b-48f5-a5d4-a144e2bf2ccf)\
 
 &nbsp;
 ### - Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Same as the previous question functions from the pandas library and the head function were used to find the top\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;artists based on number of tracks. The top 5 are shown below:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/e986b144-022a-4cb9-842f-89221acc9dd0)\
-&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As for number of tracks released per month, the month with the most releases is January and there is no noticeable trend except that\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some pair of months have almost the same number of releases.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d5d43e76-9911-413f-82e8-761d001d38f5)\
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the Graph above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/92856acf-1920-4299-a0c5-3078849c3942)\
 
 
