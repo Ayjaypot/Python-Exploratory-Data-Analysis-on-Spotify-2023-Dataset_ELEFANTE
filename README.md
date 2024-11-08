@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By using the seaborn and matplotlib libraries graphs were created for the distribution of released year and artist count.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As for the trends, in the graph for the released year there are noticeably less tracks from the year 2000 and below and from years 2000 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to 2023 there is an almost steady increases in tracks and a great increase in the years between 2010 and 2023. The graphs are shown below\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graph for distribution of released_year:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph for distribution of released_year:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/20a24e95-401f-404d-b661-c4e6778bc8d6)\
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph for distribution of artist_count:\
@@ -43,6 +43,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the graphs is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/cf0bd8c5-9d4a-422a-8879-7301ac10bdfa)
 
+## C. Top Performers
+### - Which track has the highest number of streams? Display the top 5 most streamed tracks.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using functions from the pandas library and the head function the top 5 tracks were found based on number of streams. The most streamed was Blinding Lights and the top 5 are shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/c9d44732-3eb0-4e16-8dec-2d2da75f070e)
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d2a0627d-4a8b-48f5-a5d4-a144e2bf2ccf)
+&nbsp;
+### - Who are the top 5 most frequent artists based on the number of tracks in the dataset?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using functions from the pandas library and the head function the top 5 tracks were found based on number of streams. The most streamed was Blinding Lights and the top 5 are shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/c9d44732-3eb0-4e16-8dec-2d2da75f070e)
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d2a0627d-4a8b-48f5-a5d4-a144e2bf2ccf)
 
 
 
