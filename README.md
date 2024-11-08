@@ -24,8 +24,8 @@
 ### - What are the mean, median, and standard deviation of the streams column?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The mean, median, and mode was computed using the numpy library and the computed values are the following:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/85e35aba-65f8-4cd5-addd-97eb2135657b)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The output for this code is:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/b61c4a79-c812-4fdb-aace-70cb28c2990f)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6be83751-e16c-4588-8f31-7eec6e446387)
 ### - What are the data types of each column? Are there any missing values?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As per the findings by using the .dtypes function from the pandas library, there are 3 data types found in the \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dataset them being integers, objects, and float. As for missing values that are found through the use of the .isnull\
