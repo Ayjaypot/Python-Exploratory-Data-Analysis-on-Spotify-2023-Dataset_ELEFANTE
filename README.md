@@ -24,18 +24,22 @@
 ### - What are the mean, median, and standard deviation of the streams column?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The mean, median, and mode was computed using the numpy library and the computed values are the following:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/85e35aba-65f8-4cd5-addd-97eb2135657b)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6be83751-e16c-4588-8f31-7eec6e446387)
+&nbsp;
 ### - What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By using the seaborn and matplotlib libraries graphs were created for the distribution of released year and artist count.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As for the trends, in the graph for the released year there are noticeably less tracks from the year 2000 and below and from years 2000 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to 2023 there is an almost steady increases in tracks and a great increase in the years between 2010 and 2023. The graphs are shown below\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graph for distribution of released_year:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/20a24e95-401f-404d-b661-c4e6778bc8d6)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph for distribution of artist_count:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/5fe5f358-51f2-47e0-9e30-a54eaa0c7056)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for mean, median, mode and standard deviation is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/f0aa4465-2b54-4f1d-b3c7-99257762b8e5)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the graphs is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/cf0bd8c5-9d4a-422a-8879-7301ac10bdfa)
 
