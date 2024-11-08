@@ -82,7 +82,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the Graph above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/9ba4f9f4-f607-4baa-9f2f-f1c4f1177c8f)
 
-
+## Version History
+1.0 - 08/11/2024 - uploaded initial code
+1.1 - 08/11/2024 - uploaded initial code again due to error in file
+1.2 - 08/11/2024 - uploaded updated code again due to corrections in original code
 
 
 
