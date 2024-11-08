@@ -76,9 +76,9 @@
 &nbsp;
 ### - Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As for number of tracks released per month, the month with the most releases is January and there is no noticeable trend except that\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some pair of months have almost the same number of releases.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some pair of months have almost the same number of releases. The graph is shown below:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d5d43e76-9911-413f-82e8-761d001d38f5)\
-
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the Graph above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/9ba4f9f4-f607-4baa-9f2f-f1c4f1177c8f)
 
