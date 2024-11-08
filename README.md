@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The output for this code is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/b61c4a79-c812-4fdb-aace-70cb28c2990f)
 ### - What are the data types of each column? Are there any missing values?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As per the findings by using the .dtypes function from the pandas library, there are 3 data types found in the dataset, them being integers, objects, and float. As for missing values that are found through the use of the .isnull &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and .sum function to add find the total number of missing values as well. There were 50 missing values in the "in_shazam_charts" column and 95 missing values in the "key" column .\ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As per the findings by using the .dtypes function from the pandas library, there are 3 data types found in the dataset, them being integers, objects, and float. As for missing values that are found through the use of the .isnull\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and .sum function to add find the total number of missing values as well. There were 50 missing values in the "in_shazam_charts" column and 95 missing values in the "key" column .\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the data types is\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/9794e66c-b852-47d0-b9a3-7f0704593308)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the missing values is:\
