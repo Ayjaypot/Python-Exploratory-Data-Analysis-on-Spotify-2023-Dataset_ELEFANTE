@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/85e35aba-65f8-4cd5-addd-97eb2135657b)\
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6be83751-e16c-4588-8f31-7eec6e446387)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6be83751-e16c-4588-8f31-7eec6e446387)\
 &nbsp;
 ### - What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By using the seaborn and matplotlib libraries graphs were created for the distribution of released year and artist count.\
@@ -54,11 +54,11 @@
 &nbsp;
 ### - Who are the top 5 most frequent artists based on the number of tracks in the dataset?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Same as the previous question functions from the pandas library and the head function were used to find the top\
-artists based on number of tracks. The top 5 are shown below:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/e986b144-022a-4cb9-842f-89221acc9dd0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;artists based on number of tracks. The top 5 are shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/e986b144-022a-4cb9-842f-89221acc9dd0)\
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the output above is:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/92856acf-1920-4299-a0c5-3078849c3942)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/92856acf-1920-4299-a0c5-3078849c3942)\
 
 
 
