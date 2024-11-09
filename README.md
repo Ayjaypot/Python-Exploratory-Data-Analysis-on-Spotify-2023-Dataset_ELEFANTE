@@ -98,6 +98,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/195ed32f-20dd-4db6-a38d-51a1e447c1ba)\
 
+## F. Platform Popularity
+### - How do the numbers of tracks in spotify_playlists, in_deezer_playlists, and apple_playlists compare? Which platform seems to favor the most popular tracks?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As can be seen by the data below in spotify playlists and it also has the most number of tracks favor the most tracks as shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/7825ff80-7ff5-4a30-be46-3557feda9137)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/527d86fc-4cbf-4e2b-b96d-87094de27063)\
+
+
 
 
 ## Version History
