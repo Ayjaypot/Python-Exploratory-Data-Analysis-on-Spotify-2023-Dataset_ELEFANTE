@@ -86,9 +86,19 @@
 ### - Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As shown with the computed data almost all have a negative correlation with bpm having almost no correlation which means that none\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of this attributes affect the streams much. The computed data is shown below:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/a6554f8b-008f-48f9-9223-b9bbf74c88dd)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/a6554f8b-008f-48f9-9223-b9bbf74c88dd)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/671e465e-40ec-4719-81cf-63ce4175f692)\
+&nbsp;
+### - Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unlike the correlation between musical attributes and streams there is a positive correlation between danceablity and energy which\ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;means they go up in relation to each other, while for valence and acousticness there is a negative correlation same with the streams.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The correlation data is shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/e283cd08-3a13-4443-a2eb-7ead7c8b9038)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/195ed32f-20dd-4db6-a38d-51a1e447c1ba)\
+
+
 
 ## Version History
 1.0 - 08/11/2024 - uploaded initial code\
