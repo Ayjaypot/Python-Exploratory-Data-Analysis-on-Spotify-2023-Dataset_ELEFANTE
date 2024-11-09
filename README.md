@@ -107,8 +107,18 @@
 
 ## G.  Advanced Analysis
 ### - Based on the streams data, can you identify any patterns among tracks with the same key or mode (Major vs. Minor)?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking at the data below, the streams for tracks with the same key are almost the same with each other the same with the major or minor mode.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking at the data, the streams for tracks with the same key are almost the same with each other the same with the major or minor mode.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6909d71e-60ed-41b6-a44b-c6989e763fbd)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/6b4b53dd-888d-4354-a27f-63b07c2d7c63)\
+
+### - Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes certain artists appear more than others below are the top 5 artists:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/7efa6149-781b-43af-81e5-bf9c82384e5a)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/25796716-c684-41b2-a03e-5c5fec08e9fe)\
+
+
 
 
 
