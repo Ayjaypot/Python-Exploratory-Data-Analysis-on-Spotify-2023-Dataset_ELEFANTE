@@ -82,10 +82,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the Graph above is:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/9ba4f9f4-f607-4baa-9f2f-f1c4f1177c8f)
 
+## E. Genre and Music Characteristics
+### - Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As shown with the computed data almost all have a negative correlation with bpm having almost no correlation which means that none\ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of this attributes affect the streams much. The computed data is shown below:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/a6554f8b-008f-48f9-9223-b9bbf74c88dd)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The code for the above data is:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/671e465e-40ec-4719-81cf-63ce4175f692)\
+
 ## Version History
-1.0 - 08/11/2024 - uploaded initial code
-1.1 - 08/11/2024 - uploaded initial code again due to error in file
-1.2 - 08/11/2024 - uploaded updated code again due to corrections in original code
+1.0 - 08/11/2024 - uploaded initial code\
+1.1 - 08/11/2024 - uploaded initial code again due to error in file\
+1.2 - 08/11/2024 - uploaded updated code again due to corrections in original code\
 
 
 
